@@ -49,7 +49,7 @@ router.post("/", async (req, res) => {
   } catch (err) {
     res.status(400).json(err);
   }
-  
+
   /* req.body should look like this...
     {
       product_name: "Basketball",
@@ -134,7 +134,7 @@ router.delete("/:id", async (req, res) => {
     });
 
     if (!productData) {
-      res.status(400).json({ "No product with this id!" });
+      res.status(400).json({ message: "No product with this id!" });
       return;
     }
 
