@@ -12,4 +12,4 @@ I completed the following:
 
 ## Walkthrough Video
 
-[]()
+[https://drive.google.com/file/d/1_x8vmGbNMsTQKvB5AcGNJQgRE6S_3M1O/view?usp=share_link](https://drive.google.com/file/d/1_x8vmGbNMsTQKvB5AcGNJQgRE6S_3M1O/view?usp=share_link)
